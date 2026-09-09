@@ -7,7 +7,7 @@
   "PipelinePlugin/TypeName"                  ;string "Prefab"
   "PipelinePlugin/FileExtension"             ;wstring ""
   "PipelinePlugin/TypeGUID/Value"            ;u64    #16F179B86A628F9D
-  "PipelinePlugin/Icon"                      ;string "\xEE\xAD\xB8"
+  "PipelinePlugin/IconPath"                      ;wstring "icon.png"
   "PipelinePlugin/Details/RunAfter[]"        ;s64    0
   "PipelinePlugin/Details/CompilationScript" ;wstring ""
   "PipelinePlugin/Details/DebugCompiler"     ;wstring ""
